@@ -6,3 +6,4 @@ float64 xmax
 float64 ymax
 float64 zmin
 float64 zmax
+string Class
